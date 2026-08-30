@@ -89,7 +89,7 @@ Implemented and verified:
 - Authentication testing
 - Troubleshooting SSH configuration precedence
 
-[View SSH Hardening Documentation](docs/03-ssh-hardening.md)
+[View SSH Hardening Documentation. If there's an error, look int the docs folder.](docs/03-ssh-hardening.md)
 
 ## Security Approach
 
